@@ -1,0 +1,5937 @@
+fileFormatVersion: 2
+guid: d08f0f8b2ab4c8749b210a4928c11f51
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceAstronauts_001.png
+    21300002: spaceAstronauts_002.png
+    21300004: spaceAstronauts_003.png
+    21300006: spaceAstronauts_004.png
+    21300008: spaceAstronauts_005.png
+    21300010: spaceAstronauts_006.png
+    21300012: spaceAstronauts_007.png
+    21300014: spaceAstronauts_008.png
+    21300016: spaceAstronauts_009.png
+    21300018: spaceAstronauts_010.png
+    21300020: spaceAstronauts_011.png
+    21300022: spaceAstronauts_012.png
+    21300024: spaceAstronauts_013.png
+    21300026: spaceAstronauts_014.png
+    21300028: spaceAstronauts_015.png
+    21300030: spaceAstronauts_016.png
+    21300032: spaceAstronauts_017.png
+    21300034: spaceAstronauts_018.png
+    21300036: spaceBuilding_001.png
+    21300038: spaceBuilding_002.png
+    21300040: spaceBuilding_003.png
+    21300042: spaceBuilding_004.png
+    21300044: spaceBuilding_005.png
+    21300046: spaceBuilding_006.png
+    21300048: spaceBuilding_007.png
+    21300050: spaceBuilding_008.png
+    21300052: spaceBuilding_009.png
+    21300054: spaceBuilding_010.png
+    21300056: spaceBuilding_011.png
+    21300058: spaceBuilding_012.png
+    21300060: spaceBuilding_013.png
+    21300062: spaceBuilding_014.png
+    21300064: spaceBuilding_015.png
+    21300066: spaceBuilding_016.png
+    21300068: spaceBuilding_017.png
+    21300070: spaceBuilding_018.png
+    21300072: spaceBuilding_019.png
+    21300074: spaceBuilding_020.png
+    21300076: spaceBuilding_021.png
+    21300078: spaceBuilding_022.png
+    21300080: spaceBuilding_023.png
+    21300082: spaceBuilding_024.png
+    21300084: spaceBuilding_025.png
+    21300086: spaceEffects_001.png
+    21300088: spaceEffects_002.png
+    21300090: spaceEffects_003.png
+    21300092: spaceEffects_004.png
+    21300094: spaceEffects_005.png
+    21300096: spaceEffects_006.png
+    21300098: spaceEffects_007.png
+    21300100: spaceEffects_008.png
+    21300102: spaceEffects_009.png
+    21300104: spaceEffects_010.png
+    21300106: spaceEffects_011.png
+    21300108: spaceEffects_012.png
+    21300110: spaceEffects_013.png
+    21300112: spaceEffects_014.png
+    21300114: spaceEffects_015.png
+    21300116: spaceEffects_016.png
+    21300118: spaceEffects_017.png
+    21300120: spaceEffects_018.png
+    21300122: spaceMeteors_001.png
+    21300124: spaceMeteors_002.png
+    21300126: spaceMeteors_003.png
+    21300128: spaceMeteors_004.png
+    21300130: spaceMissiles_001.png
+    21300132: spaceMissiles_002.png
+    21300134: spaceMissiles_003.png
+    21300136: spaceMissiles_004.png
+    21300138: spaceMissiles_005.png
+    21300140: spaceMissiles_006.png
+    21300142: spaceMissiles_007.png
+    21300144: spaceMissiles_008.png
+    21300146: spaceMissiles_009.png
+    21300148: spaceMissiles_010.png
+    21300150: spaceMissiles_011.png
+    21300152: spaceMissiles_012.png
+    21300154: spaceMissiles_013.png
+    21300156: spaceMissiles_014.png
+    21300158: spaceMissiles_015.png
+    21300160: spaceMissiles_016.png
+    21300162: spaceMissiles_017.png
+    21300164: spaceMissiles_018.png
+    21300166: spaceMissiles_019.png
+    21300168: spaceMissiles_020.png
+    21300170: spaceMissiles_021.png
+    21300172: spaceMissiles_022.png
+    21300174: spaceMissiles_023.png
+    21300176: spaceMissiles_024.png
+    21300178: spaceMissiles_025.png
+    21300180: spaceMissiles_026.png
+    21300182: spaceMissiles_027.png
+    21300184: spaceMissiles_028.png
+    21300186: spaceMissiles_029.png
+    21300188: spaceMissiles_030.png
+    21300190: spaceMissiles_031.png
+    21300192: spaceMissiles_032.png
+    21300194: spaceMissiles_033.png
+    21300196: spaceMissiles_034.png
+    21300198: spaceMissiles_035.png
+    21300200: spaceMissiles_036.png
+    21300202: spaceMissiles_037.png
+    21300204: spaceMissiles_038.png
+    21300206: spaceMissiles_039.png
+    21300208: spaceMissiles_040.png
+    21300210: spaceParts_001.png
+    21300212: spaceParts_002.png
+    21300214: spaceParts_003.png
+    21300216: spaceParts_004.png
+    21300218: spaceParts_005.png
+    21300220: spaceParts_006.png
+    21300222: spaceParts_007.png
+    21300224: spaceParts_008.png
+    21300226: spaceParts_009.png
+    21300228: spaceParts_010.png
+    21300230: spaceParts_011.png
+    21300232: spaceParts_012.png
+    21300234: spaceParts_013.png
+    21300236: spaceParts_014.png
+    21300238: spaceParts_015.png
+    21300240: spaceParts_016.png
+    21300242: spaceParts_017.png
+    21300244: spaceParts_018.png
+    21300246: spaceParts_019.png
+    21300248: spaceParts_020.png
+    21300250: spaceParts_021.png
+    21300252: spaceParts_022.png
+    21300254: spaceParts_023.png
+    21300256: spaceParts_024.png
+    21300258: spaceParts_025.png
+    21300260: spaceParts_026.png
+    21300262: spaceParts_027.png
+    21300264: spaceParts_028.png
+    21300266: spaceParts_029.png
+    21300268: spaceParts_030.png
+    21300270: spaceParts_031.png
+    21300272: spaceParts_032.png
+    21300274: spaceParts_033.png
+    21300276: spaceParts_034.png
+    21300278: spaceParts_035.png
+    21300280: spaceParts_036.png
+    21300282: spaceParts_037.png
+    21300284: spaceParts_038.png
+    21300286: spaceParts_039.png
+    21300288: spaceParts_040.png
+    21300290: spaceParts_041.png
+    21300292: spaceParts_042.png
+    21300294: spaceParts_043.png
+    21300296: spaceParts_044.png
+    21300298: spaceParts_045.png
+    21300300: spaceParts_046.png
+    21300302: spaceParts_047.png
+    21300304: spaceParts_048.png
+    21300306: spaceParts_049.png
+    21300308: spaceParts_050.png
+    21300310: spaceParts_051.png
+    21300312: spaceParts_052.png
+    21300314: spaceParts_053.png
+    21300316: spaceParts_054.png
+    21300318: spaceParts_055.png
+    21300320: spaceParts_056.png
+    21300322: spaceParts_057.png
+    21300324: spaceParts_058.png
+    21300326: spaceParts_059.png
+    21300328: spaceParts_060.png
+    21300330: spaceParts_061.png
+    21300332: spaceParts_062.png
+    21300334: spaceParts_063.png
+    21300336: spaceParts_064.png
+    21300338: spaceParts_065.png
+    21300340: spaceParts_066.png
+    21300342: spaceParts_067.png
+    21300344: spaceParts_068.png
+    21300346: spaceParts_069.png
+    21300348: spaceParts_070.png
+    21300350: spaceParts_071.png
+    21300352: spaceParts_072.png
+    21300354: spaceParts_073.png
+    21300356: spaceParts_074.png
+    21300358: spaceParts_075.png
+    21300360: spaceParts_076.png
+    21300362: spaceParts_077.png
+    21300364: spaceParts_078.png
+    21300366: spaceParts_079.png
+    21300368: spaceParts_080.png
+    21300370: spaceParts_081.png
+    21300372: spaceParts_082.png
+    21300374: spaceParts_083.png
+    21300376: spaceParts_084.png
+    21300378: spaceParts_085.png
+    21300380: spaceParts_086.png
+    21300382: spaceParts_087.png
+    21300384: spaceParts_088.png
+    21300386: spaceParts_089.png
+    21300388: spaceParts_090.png
+    21300390: spaceParts_091.png
+    21300392: spaceParts_092.png
+    21300394: spaceParts_093.png
+    21300396: spaceParts_094.png
+    21300398: spaceParts_095.png
+    21300400: spaceParts_096.png
+    21300402: spaceParts_097.png
+    21300404: spaceParts_098.png
+    21300406: spaceRocketParts_001.png
+    21300408: spaceRocketParts_002.png
+    21300410: spaceRocketParts_003.png
+    21300412: spaceRocketParts_004.png
+    21300414: spaceRocketParts_005.png
+    21300416: spaceRocketParts_006.png
+    21300418: spaceRocketParts_007.png
+    21300420: spaceRocketParts_008.png
+    21300422: spaceRocketParts_009.png
+    21300424: spaceRocketParts_010.png
+    21300426: spaceRocketParts_011.png
+    21300428: spaceRocketParts_012.png
+    21300430: spaceRocketParts_013.png
+    21300432: spaceRocketParts_014.png
+    21300434: spaceRocketParts_015.png
+    21300436: spaceRocketParts_016.png
+    21300438: spaceRocketParts_017.png
+    21300440: spaceRocketParts_018.png
+    21300442: spaceRocketParts_019.png
+    21300444: spaceRocketParts_020.png
+    21300446: spaceRocketParts_021.png
+    21300448: spaceRocketParts_022.png
+    21300450: spaceRocketParts_023.png
+    21300452: spaceRocketParts_024.png
+    21300454: spaceRocketParts_025.png
+    21300456: spaceRocketParts_026.png
+    21300458: spaceRocketParts_027.png
+    21300460: spaceRocketParts_028.png
+    21300462: spaceRocketParts_029.png
+    21300464: spaceRocketParts_030.png
+    21300466: spaceRocketParts_031.png
+    21300468: spaceRockets_001.png
+    21300470: spaceRockets_002.png
+    21300472: spaceRockets_003.png
+    21300474: spaceRockets_004.png
+    21300476: spaceShips_001.png
+    21300478: spaceShips_002.png
+    21300480: spaceShips_003.png
+    21300482: spaceShips_004.png
+    21300484: spaceShips_005.png
+    21300486: spaceShips_006.png
+    21300488: spaceShips_007.png
+    21300490: spaceShips_008.png
+    21300492: spaceShips_009.png
+    21300494: spaceStation_001.png
+    21300496: spaceStation_002.png
+    21300498: spaceStation_003.png
+    21300500: spaceStation_004.png
+    21300502: spaceStation_005.png
+    21300504: spaceStation_006.png
+    21300506: spaceStation_007.png
+    21300508: spaceStation_008.png
+    21300510: spaceStation_009.png
+    21300512: spaceStation_010.png
+    21300514: spaceStation_011.png
+    21300516: spaceStation_012.png
+    21300518: spaceStation_013.png
+    21300520: spaceStation_014.png
+    21300522: spaceStation_015.png
+    21300524: spaceStation_016.png
+    21300526: spaceStation_017.png
+    21300528: spaceStation_018.png
+    21300530: spaceStation_019.png
+    21300532: spaceStation_020.png
+    21300534: spaceStation_021.png
+    21300536: spaceStation_022.png
+    21300538: spaceStation_023.png
+    21300540: spaceStation_024.png
+    21300542: spaceStation_025.png
+    21300544: spaceStation_026.png
+    21300546: spaceStation_027.png
+    21300548: spaceStation_028.png
+    21300550: spaceStation_029.png
+    21300552: spaceStation_030.png
+    21300554: spaceStation_031.png
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceAstronauts_001.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 243
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c410d33ccc7b4ea2b3e8a61eea6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_002.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 948
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca097b9f40c02b40929737026c830e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_003.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1090
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb6e5210ef6ef49b5820d9826afc7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_004.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 458
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d73f01c040e9d241ac63a6eba96779a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_005.png
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 105
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21889a2af8421834ea512c0ddba5d90c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_006.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1046
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344767c7c16136f478b41af3e3313cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_007.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 17
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228531486982a9f45b6facd72a22cb88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_008.png
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 394
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3441d6eddc94135448c74591c3dd7589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_009.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 718
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6c17a5190e57a439b6e3239e44f5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_010.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 423
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64852082baa6c334eaba602b304a3597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_011.png
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 394
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a94de41fb7926c448a6e8c54bcdc769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_012.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 814
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da31a96a576f6e4599faf4c8ae4e4a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_013.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 38
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df176890e651b7d498a0f1d9418c721d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_014.png
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 294
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643bc0fecff23d41b402c853f40d91e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_015.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1002
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4192b2398742d574cb85be25e26da366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_016.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 583
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0cc27155a3d6346a7797ad1c5167e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_017.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 61
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86b27ca98bc3d248b574603081a33ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceAstronauts_018.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 149
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dbfbe28e916dc499082c58f9de3dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_001.png
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 561
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5976872e64daa09489eb427c93f1681f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_002.png
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 305
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe40db43abc8c7438d2f1913f7383dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_003.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 57
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d470d20e85b75904d94e2356119fdc8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_004.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 317
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643e9b09dab24e468e17cd8f480a119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_005.png
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 645
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9e31e09bbcb343900274219be0d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_006.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 103
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf3d8401e5b1784f9f01e3107e87fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_007.png
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 902
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd5b46afba35d43b1a0d1cd173250e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_008.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 289
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773d714e55eeab42904eb1758028685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_009.png
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 30
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50dc65b26673044da4910db9ff32357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_010.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 102
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e6863ca41c018419d1b3691c03e9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_011.png
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 304
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf2d74c3d0c6294eaa4cc7e087da5f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_012.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 193
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612ead49cc1aa243a2ea6c6d96474c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_013.png
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 33
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f257f1d06f47c344ae808479c54b745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_014.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 314
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974778ccf3ff3a42987364b978c8447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_015.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 943
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114eba80d561f8e45a73a5d91f2762aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_016.png
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 26
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fcf30f33b5d5644a1cac2755f29da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_017.png
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 88
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52093ce6bcd609345a86e450e70a4901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_018.png
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 263
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fa422d26a92149b176d1642219ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_019.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 894
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1b102ce2de8a7429ed521df2f66fd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_020.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 250
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebb5a4002a15494b9cee74786292091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_021.png
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 768
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16a041ebea60e7459b17fcf8fde7e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_022.png
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 104
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493934382ca1e974585844293284b7b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_023.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 877
+        width: 165
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a7eedba193d404ba3a510b820d011f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_024.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 811
+        width: 165
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a6c696e9b45f47b25259ed940e45d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceBuilding_025.png
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 603
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afa5a3d5b6fb5644ba9c77edc125e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_001.png
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 812
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6cabec68455604fa7d769ce709cabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_002.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 782
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a89656563152d47bfa43147d20e8b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_003.png
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 735
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5a758e96656db4f983540cf6969908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_004.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 750
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75c596a5aba307449cbd020bfa4b22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_005.png
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 81
+        width: 6
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bcb301bae1d8d4fb09d019963c8046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_006.png
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 81
+        width: 12
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95436c2ea4949e41aa12cd6ba647c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_007.png
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 550
+        width: 16
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b94c6a81ceed24eb52069c178be65d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_008.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711ef768846d6f43af53d891b788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_009.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 811
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66a5b5c10e9dc45ac25dad6760dc26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_010.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 489
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43300480cd00782409fac02d69139e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_011.png
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 658
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2acd82596b59c44587a9f5aceccd43f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_012.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507414acad940146b8bd84dd910ea1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_013.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 517
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331446e7a387acc459cedec4b5bd8f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_014.png
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 85
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427e264919df6f34d8f832525de7e07b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_015.png
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 890
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896c24195d3ca594bbf86257fc426890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_016.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 762
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8706d7db14f74742abdcd653ba5d399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_017.png
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 788
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733726ffac2571141b5d1919c4b8d474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceEffects_018.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 720
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3488a6740cab540b8966348644aa22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMeteors_001.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 215
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc133be6b6e974e814969ad9fd476a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMeteors_002.png
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 84
+        width: 212
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b0b9f60f0229442a91c59d5deac624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMeteors_003.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 214
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af4aa042a11d014ba302c90b0fbb632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMeteors_004.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 220
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f835e613279164db14109a2506497b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_001.png
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 104
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24440d24112d16347b90d5540185a5f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_002.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 983
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df47c3246b41d4d9ca10f5416db2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_003.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 53
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3d77428b5c3a54ead4dba0fa7c8165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_004.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 239
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93764852035ea8c41a64320683d97b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_005.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 932
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c27ba1e2c0432749a5b650cca0447c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_006.png
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 383
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21936d8f5d2ad014f812f1a387085854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_007.png
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 601
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc662803d50f5234ca56c44e1707fb1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_008.png
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 561
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0d2ff17686994d81073d3821a557f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_009.png
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 792
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b36e2a6a775ea498fbd41d6ebeb9f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_010.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 840
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6c93274acaa61449988b32cfda30a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_011.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 553
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633f0e115ffbf764589b99c4917d2f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_012.png
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 813
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cd5174cc4b2fe4e8ac986c32f08f8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_013.png
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 813
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e868067702663484d9b4163302faada8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_014.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc1fcc996427b84a84545f03c52e2e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_015.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 648
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260170d86146f264dab54e4afeb15bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_016.png
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 89
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20c9efbbeb27a24f85bd85f4076d232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_017.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 89
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33208cef22dc874ebe8c0d04199d2ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_018.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1053
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747803938b1af9e41b49dff7c0532d38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_019.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1018
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c245bd3ebf41a854e8a4335e9a6ef4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_020.png
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 774
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e23d9d5dcd5c47a89dc0a306d2d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_021.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 676
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01943cb7d2f6b6a46b65c983939738c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_022.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 722
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72185e12c94ad54a83ae485b5fe89f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_023.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1088
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61458184907c833498077660633e0033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_024.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 673
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfbebe46784ac144b95f725a4b05945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_025.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 506
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a640bd92feba0847a56bd28fa6a101a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_026.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 601
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff5e7417f092f48b7f0a789dadce17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_027.png
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 257
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3211f9804e0ed499f22783f1e7aedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_028.png
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a10a25d6008a114ca21c9771bc21453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_029.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 389
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8cf053359f6ef4bab6c7ea9b366fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_030.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 856
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a07b6e4d7ce9941a9d2b49b4ca9df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_031.png
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 746
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e631dfab55c94424aab3f41c06a7e453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_032.png
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b0114bc7ae6341bf165c328d419b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_033.png
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 812
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b939b6627b2541bb55d8c0bef981d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_034.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 438
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de62c7385869bf648b0bfdfb7afa8079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_035.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 290
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b27de87ac7eb64c963150362f93f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_036.png
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 701
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba0caec968241d42964da117b4e9f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_037.png
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 457
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9017ddf5918c9cc439278d114f93f79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_038.png
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 269
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d5f8c94daa254f998813ba035a3e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_039.png
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 957
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec821f942fda0a44b784670889a3c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceMissiles_040.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 641
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ee666e4126b449bd194ccbf6e26c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_001.png
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 787
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135e7cafff058d479ebe79b151c7654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_002.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 992
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de877160cbc239549b61351bf21c74cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_003.png
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 865
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486dfcc99ccc04d4db103bfd9e991c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_004.png
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1050
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc591a739b5f11c459c1ec38ab41035a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_005.png
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 287
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee0affea658a14c8b167d0036dbb35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_006.png
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 471
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57710a1b3d816674e9565b2ffcb56903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_007.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 633
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9686ed8ec76fa4488e943cce473bad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_008.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 630
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd15a258c1c435478eded4cb924d04b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_009.png
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 366
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a518dc21c60654c832f4b5bc277ad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_010.png
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1000
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca39fa3459fadf34da257f7b5e74f098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_011.png
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 221
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2d706dacc41340a6203468a12deb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_012.png
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 315
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef0637d1d9f5ea49a2dfed0b3b1e5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_013.png
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 385
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1da195ea4f6344198e557247613d83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_014.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 651
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3bafaea390024fb1b07acea988f5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_015.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 584
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4012adfa1eb81724baeb40df9dbc3904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_016.png
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 716
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa86ed8da301d94e832db56131a05d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_017.png
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 375
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbb95a38afde864da1d753d02f5a49d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_018.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1063
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6eb4a9683447449580a971ba9b8ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_019.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 192
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f457495217d627a40b7f03b17d2ea25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_020.png
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 498
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e4147baf19c3b4bbee6db5c317587f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_021.png
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 149
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5314af4f9f5719e4db1960c169eb74a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_022.png
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 684
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d416855d83f511a4188fc0b17deed4f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_023.png
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 205
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee2b04d5ae3194c85866086ce8fe78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_024.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 627
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaab94c560c91b4cac4d3ff1f20bdd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_025.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 706
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c8929e87e216b449c777067b3bfdfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_026.png
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 389
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e2e8ba78ce8b5418d4ea63e32f2d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_027.png
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 858
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487fd4fe092763479a0653f39f21182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_028.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 763
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21fb5f3a7566f448afd6aa309f76f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_029.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 553
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b32a55975e6ec9479a11ce737649aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_030.png
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 158
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa80b1fc9d8a6b43a5b3dd79dbf800d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_031.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 861
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6108da753859024f8c9d64d34c99623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_032.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 785
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06ca0453487d948a2a8eec607882be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_033.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 893
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e0d008cb6d7e04a954cab86a27cf7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_034.png
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 442
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8affe1024c04244ac3cdb86f52f4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_035.png
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 82
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730708ae7c2dda54baefe68bc342d070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_036.png
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 940
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fc0dcfdb31d1e48959d694ea6c4988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_037.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 216
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b533c76069bb409fddc564741452b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_038.png
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 504
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696daf15dc35c746863c058a5b215d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_039.png
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1071
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3237b69fa0ad8ee4486ada7446cc521c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_040.png
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1068
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4c792a720b4146ac09858d97a0a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_041.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 423
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ce85fabeaf59843830dda5e8ec3437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_042.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 858
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd4c1db079a69419eaf258ed790fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_043.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 979
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62c445f5cf8bc4eb6b84d1e7405987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_044.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 376
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726b76dc111030408f616cf6a1ad3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_045.png
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1006
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9575ebfee27344586a4927e547ad14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_046.png
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 438
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e5448a9a485a41b4100e2b9900251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_047.png
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 338
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5961db509c5b24a95ed4f4538fe3a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_048.png
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 938
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2421059cb85bd4290391d6a57d5b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_049.png
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 455
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35279c8bb039ace40a9b82138f47d6cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_050.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 145
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff63eb7930080f948a6be7c6bab35f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_051.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 21
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20a3d74d45955a41bbda9c2656d6cdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_052.png
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 937
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51b0cb6c9fdb94b8707edbcf69b26e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_053.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 707
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c65c234d6bd2db47a8a5a409a97b3c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_054.png
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b480403a0d66494c986784d17c38db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_055.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 305
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c4b6ff01710aa46b8bf82543a237f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_056.png
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 925
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844736750ba24eb45a362f33b43ee3e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_057.png
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 957
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6bc7997f909d47a3a1bdfbff9a58d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_058.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 104
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc74070843fed44eb49563fe31330fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_059.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 304
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545dba4cd3baf1747a0bfcf53142c174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_060.png
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a663bff2d5f9247833e6d10da061e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_061.png
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 504
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22f1b4a99207c04cb2a5e6b8b340936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_062.png
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 209
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48e85583c572140b6466998c25179d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_063.png
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 760
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b09056eba48aa74db52cb3efabe8049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_064.png
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 235
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d51a2198502040a81c1ea4b553533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_065.png
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1021
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf156c2f4b2074ebdb5f0d2afbc9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_066.png
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 992
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a851cafc5dc3741bb030ef3ef52338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_067.png
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 8
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd1bd0585d49354aae2869292565652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_068.png
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 471
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8e380d64290d4bb92cbde7e3d3e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_069.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 207
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37829219696f8cd48958594ba73bcdc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_070.png
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 824
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d5939fec7974f40898f4b1bdaf1440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_071.png
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1101
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7ce67d3071ff4389b966d945af743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_072.png
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 989
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db766bb1cfc003479e2733a72186be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_073.png
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 759
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d59aadf6b105f46936ee57f5a34694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_074.png
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 356
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52195824760614a48acc92e4be024cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_075.png
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 956
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd0117f5bd249946bd4809161ff789a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_076.png
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 323
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263dc65d45859b24aa99c4a498d8624b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_077.png
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1101
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae55278e795551b47b93f5a093819097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_078.png
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 290
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c7e8b487ba7b42a0f04a8ba73c723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_079.png
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 475
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924674fc0681e7b4d8045cbab77cdab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_080.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 12
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420f69236b33e14e8d7cb8eac5f880f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_081.png
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23aaea3e917eae48b4246c305732432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_082.png
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 633
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f93e99950fabff4ab84484611e1b45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_083.png
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 354
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e1bd693c8fa5468a22d59c4e3d4aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_084.png
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca61bd68ebdf941bc2e05ee61869a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_085.png
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 530
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c35c47842dba848b47037bb3f4b507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_086.png
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 345
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb432040ffa197409e3fcd6dfb013d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_087.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 813
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840289761c4af7040beb3ffd9178b1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_088.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca036b45a4a72184987aff627f3ba6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_089.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 11
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f7d198ef9f1646a61e06003cc92ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_090.png
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984e76d49b94684f8f8231e10a957a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_091.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f2b7a46d9ecf4bb89e2c1b3df8161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_092.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 992
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba46ba6178cfd4f880ef4104a48bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_093.png
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 492
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b82926b8c84d2b41a5cd96728b4ef72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_094.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 207
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c0a10a03676242ae7d409beb4b1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_095.png
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 11
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431cb0e25a57eeb4da8bc3b525ddeb76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_096.png
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 121
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeb587a3de729042bc0ef6f783f0158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_097.png
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 235
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42afa53d831b1f04aa472e2c50d90c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceParts_098.png
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 517
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0acf1eec078fd408ff2e4f1815328f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_001.png
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1056
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3164d57f3a796d4b90da125a1adbe58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_002.png
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 688
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b16d0663cfdc048aed144889384ade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_003.png
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badd0b4a1b6eed049836a8dbe77efd99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_004.png
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 553
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72b9b3173e9469428192bbd1357f853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_005.png
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 498
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56060e5f450aca141817fc0c9925e5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_006.png
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 611
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665a99c73a56614aa76a2d27136baf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_007.png
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 538
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22bf2d6293039241bbbcaea8b2790a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_008.png
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 748
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aa3be8ffe405540be26dad0aa10635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_009.png
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 789
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112117a534a582f4b896bf31004e7d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_010.png
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 684
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8aaa161d8f31348b75ca2892a2211f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_011.png
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 853
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1cb14310c9f84c933e68809056d04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_012.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ff7d4a73d3c14f8b5720c925f8027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_013.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 782
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85557d7048d168240b4387d69db5ada5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_014.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 371
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f68fd62c4fae5459d3e211461f9aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_015.png
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 193
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45801d7a9190db4199aa3022274fff1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_016.png
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 844
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15ad6de9e1d66249afa446760124ca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_017.png
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 624
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51112964801cacf4c80ed49f1e8a8b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_018.png
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 992
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91da29c3c2052744976f8664fc9e9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_019.png
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 489
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e139490620a26d47aa0422e266c4d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_020.png
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 809
+        width: 29
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302cb0d14220d3146a08b2f988234554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_021.png
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 501
+        width: 29
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab25e0c69639ce489e2d45b86ee15c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_022.png
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 467
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8073682fac5889547b94340abee57b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_023.png
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 570
+        width: 39
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78c5a41334567549a9972b8464388f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_024.png
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 78
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073a46f5ef53e54098496877c5567c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_025.png
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 292
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63859b60f73750647ba444c6cdc27fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_026.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1045
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0496e593c5a2040b8cae3f2db4dbb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_027.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 773
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c4025c81072a4e945fb70b87fe889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_028.png
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1051
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a96b07f011eb141818f9af0c80e38a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_029.png
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 766
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2500c9f5a084c144aa885c83d49a1722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_030.png
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 908
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f2ded1dc513014597ab2575443f85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRocketParts_031.png
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 128
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11fdf0c20d76674ab939a596b87210d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRockets_001.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 114
+        width: 122
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c208acb0d36cd4fa7514a1440c842a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRockets_002.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 502
+        width: 157
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef88867703e7dfd4e901537a81f6c71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRockets_003.png
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 173
+        width: 118
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988433950c7dd1748a1fce53dd98b440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceRockets_004.png
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 133
+        width: 136
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed80b675eb45f34ebe72d19a39526e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_001.png
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c648a13477758d2428d91ce7bd6358ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_002.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 737
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a247331970faa489c5b0a49e4e409d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_003.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 849
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330496e1547bb94bb062c21d5cdf953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_004.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 835
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22498ee138407f4296dc75222ab6fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_005.png
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061dc1affcd39d47a860729c4429298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_006.png
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 986
+        width: 94
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8bbada01ef4c419a97229fe356480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_007.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 983
+        width: 172
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3861d05a71106a34196be7d56e703339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_008.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 994
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e91b12e1cebb4418ff6452257f6dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShips_009.png
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 994
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4be1876b7d98648b2e2ac43a845b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_001.png
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 943
+        width: 124
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748c1ba41014d14b9cf206b919c2888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_002.png
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 862
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dec6976c3b78a4ca4d8ff2799d1579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_003.png
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298fdc267d71dbc44bb62b847df5acca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_004.png
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 5
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec0079ba75bf442885b5937c4f020d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_005.png
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 729
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f85a7de5e28dfd4f83a0d7ffdbcf4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_006.png
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1001
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d770f142ff2a43a61970f448a45a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_007.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 849
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae640dea4b57e488f9c3fca5573038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_008.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 719
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31909163345f8af45b16087c7d544a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_009.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 888
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b977ac03b096da4480f1cebfdc747b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_010.png
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 161
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee6420c82211d748bd3e517c6a15bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_011.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 105
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde83ee9c89efc9489bb46328e684862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_012.png
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 17
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0238d5fb05a8c4a8af4df8c3d9c410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_013.png
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 6
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d679fee3ab7e243bf270504e1d841b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_014.png
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 13
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb27d951723fc448d147cb953e6040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_015.png
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 89
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a235d4399a2b4b41a20969b60822083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_016.png
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 818
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3485d145999e95a49940b7d0c6081717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_017.png
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1090
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e88f7b08822840bc6f0d473bef91e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_018.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 172
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850dd6d78e4677142b7edfbc0dedb78b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_019.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 394
+        width: 172
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b61ba8938d32479fcfc29db723bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_020.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 488
+        width: 124
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98472ec7fd8d034093174be82dd1693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_021.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 446
+        width: 172
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc74efd210c4d4887662574f705274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_022.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 354
+        width: 172
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55783d328cdd743a2af6defc12ae87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_023.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 35
+        width: 172
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0828e1bc551e7d749806bf2f27259970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_024.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 276
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d675148fc08f468b95b083740c7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_025.png
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1022
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e0f979076d951459456680050ed7b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_026.png
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 334
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e70d9ca5a76ef488c516177be4b145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_027.png
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 139
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4483f9647f3412489b9b489c933b9de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_028.png
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1076
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0493bea9012b4eb889e931d036b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_029.png
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 950
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d5c21ea4c1304a8758329a9e8ab14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_030.png
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2171f3d906b69b40acbb3aa7a74fac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceStation_031.png
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 50
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c9353f362fa9d43998a31367378795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5b918d0c3902e14394b4611537fcfd8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
