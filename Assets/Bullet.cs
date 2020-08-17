@@ -7,6 +7,7 @@ public class Bullet : MonoBehaviour
     public float speed = 20f;
     public float damageAmount = 10f;
 
+    public GameObject hitParticlePrefab;
 
     private Rigidbody2D rb;
 
@@ -25,17 +26,20 @@ public class Bullet : MonoBehaviour
             Meteorite meteorite = collision.gameObject.GetComponent<Meteorite>();
 
 
-            if (meteorite  != null)
+            if (meteorite != null)
             {
-                Destroy(collision.gameObject);
-                Destroy(this.gameObject);
+                FindObjectOfType<Score>().AddPoints(10);
+                meteorite.DestroyMeteorite();
+
             }
 
 
-           
+
         }
 
+        GameObject particles = Instantiate(hitParticlePrefab, transform.position, transform.rotation);
+        Destroy(particles, 5f);
+        Destroy(this.gameObject);
 
-       
     }
 }
